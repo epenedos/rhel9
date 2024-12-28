@@ -1,0 +1,2 @@
+git config --global user.name "epenedos"
+git config --global user.email epenedos@icloud.com
